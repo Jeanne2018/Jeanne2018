@@ -3,9 +3,30 @@
 }
 
 .border-top-royale {
-    border-top: solid 1px #4123cf;
+    border-top: solid 3px #4123cf;
 }
 
 body {
     padding-top: 100px;
+    font-family: 'Montserrat', Arial, sans-serif;
+}
+
+/***** liste associations *****/
+footer {
+    padding-top: 10px;
+
+}
+
+
+/***** liste associations *****/
+#list-asso li {
+    margin-bottom: 10px;
+}
+#list-asso a {
+    color: #0C0C0C;
+}
+#list-asso a:hover {
+    color: #303030;
+    text-decoration: none;
+    cursor: pointer;
 }
