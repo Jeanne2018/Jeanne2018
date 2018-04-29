@@ -7,13 +7,13 @@
 }
 
 body {
-    padding-top: 100px;
+    padding: 100px 0 20px 0;
     font-family: 'Montserrat', Arial, sans-serif;
 }
 
 /***** liste associations *****/
 footer {
-    padding: 10px 0px;
+    padding-top: 10px;
 
 }
 
@@ -24,7 +24,7 @@ p.title {
 }
 #list_personnages li,
 #list-asso li {
-    margin-bottom: 10px;
+    margin: 10px 0;
 }
 #list_personnages a,
 #list-asso a {
@@ -38,3 +38,9 @@ p.title {
 }
 
 /***** personnages *****/
+.illustration {
+    float:left;
+    width: 45%;
+    margin: 0 20px 10px 0;
+
+}
