@@ -33,14 +33,16 @@ p.title {
 #list_personnages li,
 #list-asso li {
     margin: 10px 0;
+    line-height: 2em;
 }
 #list_personnages a,
 #list-asso a {
     color: #0C0C0C;
+    text-decoration: underline;
 }
 #list_personnages a:hover,
 #list-asso a:hover {
-    color: #303030;
+    color: #e26207;
     text-decoration: none;
     cursor: pointer;
 }
