@@ -25,6 +25,9 @@ footer {
 
 }
 
+.logo-main {
+    width: 100%;
+}
 
 /***** listes associations et personnages *****/
 p.title {
